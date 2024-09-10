@@ -1,0 +1,39 @@
+.header {
+    background-color: lightgray;
+    text-align: center;
+    width: 95%;
+    height: 130px;
+    margin-left: 50px;
+    border-radius: 15px;
+    padding-top: 50px;
+    border: solid 5px gray;
+}
+
+.header2 {
+    background-color: lightgray;
+    text-align: center;
+    width: 95%;
+    height: 60px;
+    margin-left: 50px;
+    margin-top: 15px;
+    border-radius: 15px;
+    padding-top: 2px;
+    border: solid 5px gray;
+}
+
+.container {
+    text-align: left;
+    margin-left: 50px;
+}
+
+.footer {
+    background-color: lightgray;
+    text-align: center;
+    width: 95%;
+    height: 60px;
+    margin-left: 50px;
+    margin-top: 15px;
+    border-radius: 15px;
+    padding-top: 2px;
+    border: solid 5px gray;
+}
